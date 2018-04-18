@@ -10,7 +10,6 @@ Under the Commander’s Emergency Response Program, commanders were authorized t
 I’m interested in breaking down the distribution of the funds by:
 
 * Location (province)
-
 * Date
 * Project coordination with locals
 * Project type
@@ -21,3 +20,5 @@ I’m interested in breaking down the distribution of the funds by:
 * Length of project 
 * Direct benefit to locals 
 A couple of other categories I’m interested in were retracted or simply labeled classified; however, the list above is sufficient to answer how $2billion was spent. 
+
+(https://www.propublica.org/datastore/dataset/commanders-emergency-response-program-data)
