@@ -22,4 +22,4 @@ I’m interested in breaking down the distribution of the funds by:
 
 A couple of other categories I’m interested in were retracted or simply labeled classified; however, the list above is sufficient to answer how $2billion was spent. 
 
-(https://www.propublica.org/datastore/dataset/commanders-emergency-response-program-data)
+(https://www.propublica.org/datastore/dataset/commanders-emergency-response-program-data) You have to download the data to gain access, I couldn't figure out how to attach my downloaded copy to github but I can show it to you.   
