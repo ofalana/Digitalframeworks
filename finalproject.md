@@ -26,7 +26,7 @@ Weapons transfer is a prominent way a country can express their allegiance to op
 Tracking down the weaponry suppliers of non-state actors like ISIS can be an impossible mission.  Nonetheless, Conflict Armament Research, an organization that identifies and tracks weapons and ammunition in armed conflicts, reported that anti-tank rockets taken from captured Islamic State forces were identical to M79 rockets transferred by Saudi Arabia to the ‘Free Syrian Army’ forces in 2013.  The report also found Chinese manufactured machine guns. 
 
 
-Ongoing Conflicts in Recipient Countries Mentioned Above
+### Ongoing Conflicts in Recipient Countries Mentioned Above
 
 NIGERIA 
 
@@ -58,6 +58,7 @@ SOUTH SUDAN
 Almost immediately after South Sudan gained its independence in July 2011, interethnic clashes broke out leading to deadly attacks across the country.  Shortly after, a civil war began as a result of an alleged attempted coup d’etat led by the president’s former deputy.  The armed conflict between government forces and opposition forces has led to food insecurity of an estimated 4.8 million people, almost half of the population, and the displacement of 3.9 million people according to Amnesty International.
 
 SYRIA
+
 What started as a political revolution seven years ago has resulted in the death of more 400,00 people and displacement of more than 11 million people.
 
 Critics of Syria’s President Bashar al- Assad, who took to the street in March 2011 to call for political reform, were countered with force from security forces.  Several rebel groups including Jihadist group, ISIS,  birthed from the conflict have battled with Assad for control over cities and towns in the country. The conflicts eventually spread to major cities like Aleppo and the country’s capital Damascus. 
