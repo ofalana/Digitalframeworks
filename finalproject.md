@@ -45,6 +45,7 @@ The federal government has tried to intervene however the deadly attacks have co
 In an attack of five villages in Adamawa, avenging a previous attack that killed 57 people, herdsmen, and air force bombing, according to an Amnesty International report killed state 86 people.  The report found that residents reported being attacked by a fighter jet and a military helicopter as they attempted to flee. 
 
 NIGER
+
 The spread of Boko Haram across West Africa has forced Niger to play a major role in the fight against terrorism in the region.  The country joined four neighboring countries in the Sahel region to form a joint force in 2014 called the G-5 Sahel. 
 
 Niger’s military is also partnering with foreign militaries outside the Sahel region such as the French and American military forces for training exercises and financial aid to support their fight against Boko Haram and other armed groups. 
@@ -55,6 +56,7 @@ In 2017, at least 70 attacks by Boko Haram and other armed groups, in four regio
 
 
 SOUTH SUDAN 
+
 Almost immediately after South Sudan gained its independence in July 2011, interethnic clashes broke out leading to deadly attacks across the country.  Shortly after, a civil war began as a result of an alleged attempted coup d’etat led by the president’s former deputy.  The armed conflict between government forces and opposition forces has led to food insecurity of an estimated 4.8 million people, almost half of the population, and the displacement of 3.9 million people according to Amnesty International.
 
 SYRIA
